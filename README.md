@@ -1,12 +1,12 @@
-# 🌅 Twilight.js
+# ⚡NitroType
 
-![alt text](https://img.shields.io/github/stars/twilightjs?style=social)
+![alt text](https://img.shields.io/github/stars/nitrotypejs?style=social)
 
 ## Modern JavaScript/TypeScript Ecosystem for Building Advanced Applications
 
 ## 🎯 Our Philosophy
 
-At Twilight.js we believe in:
+The NitroType we believe in:
 
 - 💪 Powerful Typing — TypeScript as the foundation of development
 - ⚡ Modernity — leveraging the latest JS/TS capabilities
